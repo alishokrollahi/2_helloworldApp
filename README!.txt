@@ -1,0 +1,3 @@
+create home and about page
+create base.html for header
+testing -> python manage.py test
